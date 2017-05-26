@@ -1,9 +1,8 @@
-# hello-world
-Hello world!
+Hello World!
 
-This repository is my Python workshop.
+Welcome to my Python workshop.
 
-It includes a growing and evolving list of projects which I'm using to help teach myself the language
+Here you'll find a growing list of projects I'm using to learn the language.
 
 Meow Sincerely  
 Michael Hayman
