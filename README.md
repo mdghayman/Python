@@ -1,2 +1,9 @@
 # hello-world
-I'm just trying to find my way in this world.
+Hello world!
+
+This repository is my Python workshop.
+
+It includes a growing and evolving list of projects which I'm using to help teach myself the language
+
+Meow Sincerely
+Michael Hayman
